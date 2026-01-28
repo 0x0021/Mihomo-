@@ -1,5 +1,3 @@
-type: "inline"
-behavior: "domain"
 payload:
   - DOMAIN-SUFFIX,bird.cn-hangzhou.log.aliyuncs.com
   - DOMAIN-SUFFIX,.hosecloud.com
